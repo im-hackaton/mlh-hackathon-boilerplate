@@ -80,10 +80,9 @@ event:
     - question: "How much does it cost?"
       answer: >
         Nothing. Attending a hackathon is free.
-    - question: "Do I need to be a student to attend?"
+    - question: "Who can participate in this hackaton?"
       answer: >
-        Yes. Only students who are currently enrolled at a college/university or
-        have graduated within the past 12 months are eligible to attend.
+        Anyone! We are excited to have people of all backgrounds participating in this hackaton.
     - question: "Where is the event?"
       answer: >
         The event is being hosted at [insert venue location here].
